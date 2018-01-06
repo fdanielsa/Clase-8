@@ -1,0 +1,48 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+button{
+	width: 80%;
+	border-radius: 2px;
+	height: 35px;
+	margin-bottom: 15px;
+	font-size: 16px;
+	background-col
+	or: transparent;
+	border: none;
+	padding: 0.5rem;
+
+
+}
+
+.succes, .danger, .ligth { color: #fff; }
+
+.primary{
+	background-color: #ede8e8;
+	color: #737373;
+
+}
+.succes{background-color: green; }
+.danger{background-color: red; }
+.warning{
+	background-color: yellow;
+	color: #000;
+}
+
+.info{
+	background-color: cyan;
+	color: #0a0a8a;
+
+}
+
+.ligth{ background-color: #737373}
